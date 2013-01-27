@@ -1,0 +1,6 @@
+result=result.txt
+x0=0
+mode=1
+
+[the url starts from the implementation directory]
+[mode=0: stochastic | mode=1: batch]
